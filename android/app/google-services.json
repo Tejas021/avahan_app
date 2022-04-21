@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201912964449",
+    "project_id": "avahan-app",
+    "storage_bucket": "avahan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201912964449:android:5363d0e4fb53dbc95ba120",
+        "android_client_info": {
+          "package_name": "com.example.avahan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201912964449-fhcr8v33rqpl4ktcuobvinm74st15vuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSEcieCitOuMAANPZBZ7BJb_fanW00u9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201912964449-fhcr8v33rqpl4ktcuobvinm74st15vuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
